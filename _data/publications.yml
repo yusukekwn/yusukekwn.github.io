@@ -1,11 +1,11 @@
 main:
 
   - title: Black-Box Forgetting
-    authors: <strong>Yusuke Kuwana</strong>
+    authors: <strong>Yusuke Kuwana</strong>, Yuta Goto, Takashi Shibata, Go Irie
     conference_short: NeurIPS
     conference: The 38th Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2411.00409
     code: https://github.com/yusukekwn/Black-Box-Forgetting
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/method_overview.png
     # notes: Early Accept
