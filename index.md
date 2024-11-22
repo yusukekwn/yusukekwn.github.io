@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a master student at Tokyo University of Science in Japan, graduating in March 2026.
+I am a first year master student at Tokyo University of Science in Japan.
 
 ## Research Interests
 
