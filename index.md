@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year master student at Tokyo University of Science in Japan.
+I am a 2nd-year master student at Tokyo University of Science in Japan.
 
 ## Research Interests
 
