@@ -10848,7 +10848,7 @@ h5,
 .h5,
 h6,
 .h6 {
-  text-transform: capitalize; /*uppercase;*/
+  text-transform: none; /*uppercase;*/
 }
 
 h1, .h1 {
