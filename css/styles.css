@@ -41,8 +41,8 @@
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
-  --bs-dark: #212529;
-  --bs-primary-rgb: 20, 80, 100;/*189, 93, 56;*/
+  --bs-dark: #4889a8;
+  --bs-primary-rgb: 72, 137, 168;/*189, 93, 56;*/
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -73,9 +73,9 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #18576a;/*#bd5d38*/
-  --bs-link-hover-color: #18576a;/*#974a2d*/
-  --bs-code-color: #d63384;
+  --bs-link-color: #d63384;/*#3c8095;/*#bd5d38*/
+  --bs-link-hover-color: #d63384;/*#3c8095;/*#974a2d*/
+  --bs-code-color: #d63384;;
   --bs-highlight-bg: #fff3cd;
 }
 
@@ -10937,7 +10937,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #18576a;/*#bd5d38;*/
+  background-color: #d63384;/*#3c8095;/*#bd5d38;*/
 }
 
 .dev-icons {
