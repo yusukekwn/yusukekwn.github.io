@@ -1,2 +1,5 @@
+url: "https://yusukekwn.github.io"
+baseurl: ""
+
 plugins:
   - jekyll-sitemap
